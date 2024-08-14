@@ -1,6 +1,8 @@
 # Perform exploratory data analysis using GPT and prompt engineering
 
 
+
+
 In this repo, we’ll cover:
 
 * Set up an OpenAI developer account and integrate it with Python environment.
