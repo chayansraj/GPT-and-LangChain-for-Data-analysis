@@ -3,6 +3,8 @@
 
 In this repo, we’ll cover:
 
+
+
 * Set up an OpenAI developer account and integrate it with Python environment.
 * Utilizing the chat functionality in the OpenAI API, with and without langchain.
 * Perform prompt engineering.
